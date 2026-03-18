@@ -1,0 +1,35 @@
+.about_section {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+    background-color: #95A472;
+    padding: 5%;
+    border-radius: 35px;
+
+}
+
+.zeg_about_heading {
+    background-color: #79845f;
+    color: #ffffff;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    border-radius: 50px 50px 0px 0px;
+    margin: 0.5px;
+    /* outline: 2px solid white;
+    outline-offset: -1rem; */
+}
+
+.zeg_about_para {
+    background-color: #5f6a45;
+    font-size: 1.5rem;
+    color: white;
+    text-align: justify;
+    border-radius: 0px 0px 50px 50px;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+    padding-top: 2%;
+    margin: 0.5px;
+}
