@@ -33,3 +33,56 @@
     padding-top: 2%;
     margin: 0.5px;
 }
+
+.wrapper {
+    margin: 1%;
+    background-color: #79845f;
+    border-radius: 50px;
+    text-align: center;
+    padding: 2%;
+}
+
+.card {
+    border: 5px solid #545c41;
+    border-radius: 10px;
+    height: 20rem;
+    width: 15rem;
+    display: inline-block;
+    margin: 1rem;
+    background-color: #5f6a45;
+
+
+
+}
+
+.zeg_head {
+    text-align: center;
+    color: #ffffff;
+    background-color: #424833;
+    font-size: 1.7rem;
+    padding: 5%;
+    border-radius: 2rem;
+    border: 1px solid #656c52;
+}
+
+.zeg_p_para {
+    text-align: justify;
+    background-color: #424833;
+    border-radius: 0px 0px 30px 30px;
+    border: 2px solid #656c52;
+    margin: 3%;
+    padding: 1rem;
+    color: #ffffff;
+
+}
+
+.zeg_head:hover,
+.zeg_p_para:hover {
+    color: #424833;
+    background-color: #ffffff;
+}
+
+/* .zeg_head:hover {
+    color: #424833;
+    background-color: #ffffff;
+} */
